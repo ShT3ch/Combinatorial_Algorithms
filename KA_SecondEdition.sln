@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1273_После_Вчера�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1080CountryColor", "1080CountryColor\1080CountryColor.csproj", "{94433B3F-1B78-44AA-9DB0-17EA6DF59F4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1022GenealogicTree", "1022GenealogicTree\1022GenealogicTree.csproj", "{F1CE1BCB-915F-49FB-9300-9180316FCF32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{94433B3F-1B78-44AA-9DB0-17EA6DF59F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94433B3F-1B78-44AA-9DB0-17EA6DF59F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94433B3F-1B78-44AA-9DB0-17EA6DF59F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1CE1BCB-915F-49FB-9300-9180316FCF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CE1BCB-915F-49FB-9300-9180316FCF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CE1BCB-915F-49FB-9300-9180316FCF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CE1BCB-915F-49FB-9300-9180316FCF32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
