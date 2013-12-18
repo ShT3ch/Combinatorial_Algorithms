@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace lab2
 {
-    internal struct Edge
+    public struct Edge
     {
         public int from;
         public int to;

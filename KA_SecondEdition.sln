@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1080CountryColor", "1080Cou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1022GenealogicTree", "1022GenealogicTree\1022GenealogicTree.csproj", "{F1CE1BCB-915F-49FB-9300-9180316FCF32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3", "lab3\lab3.csproj", "{1B074A10-F5EB-4B04-B267-0CC0C459896E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F1CE1BCB-915F-49FB-9300-9180316FCF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1CE1BCB-915F-49FB-9300-9180316FCF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1CE1BCB-915F-49FB-9300-9180316FCF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B074A10-F5EB-4B04-B267-0CC0C459896E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B074A10-F5EB-4B04-B267-0CC0C459896E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B074A10-F5EB-4B04-B267-0CC0C459896E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B074A10-F5EB-4B04-B267-0CC0C459896E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
